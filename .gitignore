@@ -1,0 +1,10 @@
+backup/*
+deb/*
+doc/*
+project/*
+release/*
+screenshot/*
+video/*
+*.txt
+*.old
+jwltief
