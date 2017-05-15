@@ -5,6 +5,8 @@ gems as you can, without being hit by enemies.
 
 The game is inspired in the game Jewel Thief by Paul Ligeski, from 1991.
 
+A Youtube trailer is available [here](https://www.youtube.com/watch?v=qhmoWmVqoo4).
+
 ## Installing
 
 To install Jwltief you need to install the 
