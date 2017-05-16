@@ -37,7 +37,7 @@
 #define OPTIONS_FILE "options.txt"
 
 bool debug = false;
-const string VERSION = "1.5.1";
+const string VERSION = "1.5.2";
 
 AGL::Game* game = NULL;
 AGL::Drawer* drawer = NULL;

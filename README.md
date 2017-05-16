@@ -10,7 +10,7 @@ A Youtube trailer is available [here](https://www.youtube.com/watch?v=qhmoWmVqoo
 ## Installing
 
 To install Jwltief you need to install the 
-[AGL Game Library](https://github.com/yds12/agl) first.
+[AGL2 Game Library](https://github.com/yds12/agl2) first.
 
 Then, open a terminal, `cd` to the root folder of *jwltief* and type:
 
